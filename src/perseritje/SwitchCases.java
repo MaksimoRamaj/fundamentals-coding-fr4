@@ -11,6 +11,8 @@ public class SwitchCases {
 
     }
 
+
+
     public static double llogarit() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Vendos numrin e pare");
